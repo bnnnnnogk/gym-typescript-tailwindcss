@@ -27,6 +27,11 @@ export default {
         abstractwaves: "url('./assets/AbstractWaves.png')",
         sparkles: "url('./assets/Sparkles.png')",
         circles: "url('./assets/Circles.png')",
+        bg: "url('./src/assets/icons/bg.svg')",
+        blob: "url('./src/assets/icons/blob-01.svg')",
+        group: "url('./src/assets/icons/Group.svg')",
+        google: "url('./src/assets/icons/Google.svg)",
+        github: "url('./src/assets/icons/GitHub.svg)",
       },
     },
     screens: {

@@ -1,4 +1,4 @@
-import Navbar from './navbar'
+import Navbar from './scenes/navbar'
 import Benefits from './scenes/benefits'
 import ContactUs from './scenes/contactUs'
 import Footer from './scenes/footer'
